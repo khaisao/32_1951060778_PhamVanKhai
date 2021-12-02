@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.my_nav{
+    display: flex;
+    align-items: center;
+}
+.my_footer_item{
+    display: flex;
+    align-items: center;
+}
+.foot_item a{
+    display: block;
+}
+footer{
+    background-color: #f9f9fb;
+}
+.footer{
+    margin-top: 40px;
+}
